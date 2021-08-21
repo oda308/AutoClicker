@@ -24,7 +24,7 @@ int main()
 	unsigned int start = clock();
 
 	printf("クリック連打プログラムを開始\n");
-	printf(" z でマウスカーソル座標決定\n");
+	printf(" z でマウスカーソ\ル座標決定\n");
 	printf(" y でクリック連打開始\n");
 	printf(" x で連打終了\n");
 	printf(" ESC でプログラム終了\n");
